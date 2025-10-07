@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState, useRef, useEffect } from "react";
 import { Upload, CheckCircle, Lightbulb, Building2, Ship, Ruler, Layers, Mail, Phone, MapPin, FileText, Globe } from "lucide-react";
 
