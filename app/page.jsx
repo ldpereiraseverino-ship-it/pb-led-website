@@ -491,12 +491,7 @@ export default function PBLEDWebsite() {
               </div>
             )}
           </div>
-
-          <div className="mt-6 text-xs text-gray-600">
-            <p><strong>FYI:</strong> {t("integrationNote")}</p>
-            <p className="mt-1">API: <code>POST {UPLOAD_ENDPOINT}</code> met <code>FormData(file, source, lang)</code>. Response: <code>200</code> bij succes.</p>
-          </div>
-        </div>
+          
       </section>
 
       {/* Contact Section */}
