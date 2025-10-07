@@ -491,8 +491,6 @@ export default function PBLEDWebsite() {
               </div>
             )}
           </div>
-          
-      </section>
 
       {/* Contact Section */}
       <section id="contact" className="py-16 bg-white">
